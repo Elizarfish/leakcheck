@@ -7,12 +7,12 @@ A simple Python client for using the LeakCheck API.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Elizarfish/leakcheck-api-client.git
+git clone https://github.com/Elizarfish/leakcheck.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd leakcheck-api-client
+cd leakcheck
 ```
 
 3. Install the required dependencies:
